@@ -1,0 +1,5 @@
+terraform init    = Initiates the terraform 
+az login          = enter the CLI login details for azure
+terraform plan    = Shows the environment that terraform is going to build
+terraform apply   = Applies the code to the azure
+terraform destroy = Destroys the environment
